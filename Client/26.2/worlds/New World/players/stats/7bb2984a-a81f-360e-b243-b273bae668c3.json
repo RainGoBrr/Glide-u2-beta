@@ -1,0 +1,41 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:netherrack": 1,
+      "minecraft:flint_and_steel": 3,
+      "minecraft:redstone_torch": 4,
+      "minecraft:gold_block": 9,
+      "minecraft:oak_log": 146
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 2,
+      "minecraft:fire": 2,
+      "minecraft:oak_log": 7
+    },
+    "minecraft:dropped": {
+      "minecraft:gold_block": 1,
+      "minecraft:flint_and_steel": 1,
+      "minecraft:redstone_torch": 1,
+      "minecraft:netherrack": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:oak_log": 7
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 7638,
+      "minecraft:walk_one_cm": 16263,
+      "minecraft:damage_taken": 110,
+      "minecraft:play_time": 7638,
+      "minecraft:jump": 87,
+      "minecraft:time_since_death": 7638,
+      "minecraft:drop": 4,
+      "minecraft:sprint_one_cm": 6367,
+      "minecraft:fall_one_cm": 225,
+      "minecraft:total_world_time": 20615,
+      "minecraft:fly_one_cm": 13861,
+      "minecraft:crouch_one_cm": 47,
+      "minecraft:sneak_time": 176
+    }
+  },
+  "DataVersion": 4903
+}
