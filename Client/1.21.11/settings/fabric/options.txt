@@ -46,7 +46,7 @@ discrete_mouse_scroll:false
 invertXMouse:false
 invertYMouse:false
 realmsNotifications:true
-showSubtitles:false
+showSubtitles:true
 directionalAudio:false
 touchscreen:false
 bobView:true
@@ -102,7 +102,7 @@ saveChatDrafts:false
 panoramaScrollSpeed:1.0
 debugifyTelemetry:0
 telemetryOptInExtra:false
-onboardAccessibility:true
+onboardAccessibility:false
 menuBackgroundBlurriness:5
 startedCleanly:true
 musicToast:"never"
