@@ -1,0 +1,5 @@
+# Config version is auto-generated
+# DO NOT CHANGE
+configVersion = 1
+# Player main-inventory slot indices locked from sorting, auto-stacking, and transfer-all in THIS single-player world. Managed programmatically; no GUI control.
+lockedPlayerSlots = []
