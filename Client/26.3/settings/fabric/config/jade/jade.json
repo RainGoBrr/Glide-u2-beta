@@ -126,6 +126,9 @@
       "loot_table": false,
       "mod_name": "ON"
     },
+    "underlay": {
+      "overlay": true
+    },
     "balm": {
       "jade": true
     }

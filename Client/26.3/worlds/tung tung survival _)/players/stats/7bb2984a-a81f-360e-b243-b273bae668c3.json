@@ -1,27 +1,44 @@
 {
   "stats": {
+    "minecraft:mined": {
+      "minecraft:short_grass": 28,
+      "minecraft:tall_grass": 6,
+      "minecraft:torch": 2,
+      "minecraft:wall_torch": 2,
+      "minecraft:acacia_leaves": 1,
+      "minecraft:dirt": 2,
+      "minecraft:crafting_table": 2,
+      "minecraft:oak_log": 11,
+      "minecraft:coal_ore": 15,
+      "minecraft:grass_block": 4,
+      "minecraft:acacia_log": 12,
+      "minecraft:stone": 19
+    },
     "minecraft:custom": {
       "minecraft:interact_with_crafting_table": 4,
-      "minecraft:time_since_rest": 1529,
+      "minecraft:time_since_rest": 3311,
       "minecraft:walk_one_cm": 88767,
       "minecraft:leave_game": 1,
       "minecraft:walk_under_water_one_cm": 934,
       "minecraft:mob_kills": 10,
       "minecraft:damage_taken": 830,
       "minecraft:boat_one_cm": 16803,
-      "minecraft:play_time": 26782,
+      "minecraft:play_time": 28564,
       "minecraft:damage_dealt": 1036,
       "minecraft:jump": 223,
-      "minecraft:time_since_death": 1493,
+      "minecraft:time_since_death": 3275,
       "minecraft:sprint_one_cm": 20720,
       "minecraft:open_chest": 1,
       "minecraft:fall_one_cm": 8250,
-      "minecraft:total_world_time": 42232,
+      "minecraft:total_world_time": 44928,
       "minecraft:fly_one_cm": 14138,
       "minecraft:walk_on_water_one_cm": 485,
       "minecraft:crouch_one_cm": 212,
-      "minecraft:sneak_time": 111,
+      "minecraft:sneak_time": 125,
       "minecraft:deaths": 3
+    },
+    "minecraft:killed_by": {
+      "minecraft:zombie": 2
     },
     "minecraft:crafted": {
       "minecraft:torch": 20,
@@ -36,6 +53,24 @@
       "minecraft:crafting_table": 1,
       "minecraft:acacia_planks": 30
     },
+    "minecraft:killed": {
+      "minecraft:zombie": 1,
+      "minecraft:sheep": 4,
+      "minecraft:cow": 4,
+      "minecraft:spider": 1
+    },
+    "minecraft:used": {
+      "minecraft:stone_axe": 21,
+      "minecraft:stone_shovel": 3,
+      "minecraft:acacia_boat": 1,
+      "minecraft:stone_sword": 63,
+      "minecraft:crafting_table": 2,
+      "minecraft:wooden_pickaxe": 21,
+      "minecraft:torch": 6,
+      "minecraft:stone_pickaxe": 16,
+      "minecraft:dirt": 6,
+      "minecraft:cobblestone": 1
+    },
     "minecraft:picked_up": {
       "minecraft:dirt": 6,
       "minecraft:stick": 7,
@@ -45,7 +80,7 @@
       "minecraft:light_gray_wool": 1,
       "minecraft:leather": 4,
       "minecraft:crafting_table": 2,
-      "minecraft:torch": 3,
+      "minecraft:torch": 6,
       "minecraft:oak_sapling": 4,
       "minecraft:beef": 9,
       "minecraft:rotten_flesh": 2,
@@ -58,40 +93,6 @@
       "minecraft:wheat_seeds": 2,
       "minecraft:mutton": 6,
       "minecraft:spider_eye": 1
-    },
-    "minecraft:used": {
-      "minecraft:stone_axe": 21,
-      "minecraft:stone_shovel": 3,
-      "minecraft:acacia_boat": 1,
-      "minecraft:stone_sword": 60,
-      "minecraft:crafting_table": 2,
-      "minecraft:wooden_pickaxe": 21,
-      "minecraft:torch": 3,
-      "minecraft:stone_pickaxe": 16,
-      "minecraft:dirt": 6,
-      "minecraft:cobblestone": 1
-    },
-    "minecraft:killed": {
-      "minecraft:zombie": 1,
-      "minecraft:sheep": 4,
-      "minecraft:cow": 4,
-      "minecraft:spider": 1
-    },
-    "minecraft:killed_by": {
-      "minecraft:zombie": 2
-    },
-    "minecraft:mined": {
-      "minecraft:short_grass": 28,
-      "minecraft:tall_grass": 6,
-      "minecraft:torch": 1,
-      "minecraft:acacia_leaves": 1,
-      "minecraft:dirt": 2,
-      "minecraft:crafting_table": 2,
-      "minecraft:oak_log": 11,
-      "minecraft:grass_block": 4,
-      "minecraft:coal_ore": 15,
-      "minecraft:acacia_log": 12,
-      "minecraft:stone": 19
     }
   },
   "DataVersion": 5023

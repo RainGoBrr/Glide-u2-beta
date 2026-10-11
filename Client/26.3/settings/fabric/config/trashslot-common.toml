@@ -3,14 +3,7 @@
 allowDeletionWhileTrashSlotIsInvisible = false
 
 # List of items that cannot be deleted, in comma-separated format of "modid:name".
-deletionDenyList = [ 
-    "", 
-    "", 
-    "", 
-    "", 
-    "", 
-    ""
-]
+deletionDenyList = [  ]
 
 # Set to true if you want the delete keybindings to work in creative as well. Note: Items will be deleted permanently in creative, regardless of instantDeletion setting!
 enableDeleteKeysInCreative = true
@@ -19,5 +12,5 @@ enableDeleteKeysInCreative = true
 enableHints = true
 
 # This causes the deletion slot to delete items instantly, similar to Creative Mode.
-instantDeletion = true
+instantDeletion = false
 

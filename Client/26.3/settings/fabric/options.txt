@@ -1,19 +1,19 @@
 version:5023
 ao:true
-biomeBlendRadius:2
+biomeBlendRadius:3
 chunkSectionFadeInTime:0.75
 cutoutLeaves:false
-enableVsync:true
+enableVsync:false
 entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
 japaneseGlyphVariants:false
-fov:1.0
+fov:0.5
 fovEffectScale:1.0
 darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
-preferredGraphicsBackend:"vulkan"
+preferredGraphicsBackend:"default"
 graphicsPreset:"custom"
 prioritizeChunkUpdates:1
 fullscreen:true
@@ -41,7 +41,7 @@ vignette:true
 weatherRadius:10
 autoJump:false
 rotateWithMinecart:false
-operatorItemsTab:true
+operatorItemsTab:false
 autoSuggestions:true
 chatColors:true
 chatLinks:true
@@ -50,7 +50,7 @@ discrete_mouse_scroll:false
 invertXMouse:false
 invertYMouse:false
 realmsNotifications:true
-showSubtitles:true
+showSubtitles:false
 directionalAudio:false
 bobView:true
 toggleCrouch:false
@@ -61,12 +61,12 @@ sprintWindow:7
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 hideSplashTexts:false
-mouseSensitivity:0.9366197183098591
+mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","inventorymanagement:inventorymanagement-dark-ui","continuity:glass_pane_culling_fix","continuity:default"]
+resourcePacks:["vanilla","continuity:glass_pane_culling_fix","continuity:default"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -89,7 +89,7 @@ notificationDisplayTime:1.0
 useNativeTransport:true
 mainHand:"right"
 attackIndicator:1
-tutorialStep:none
+tutorialStep:movement
 mouseWheelSensitivity:1.0
 allowCursorChanges:true
 quitShortcuts:true
@@ -108,7 +108,7 @@ saveChatDrafts:false
 panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false
-menuBackgroundBlurriness:0
+menuBackgroundBlurriness:5
 startedCleanly:true
 musicToast:"never"
 musicFrequency:"DEFAULT"
@@ -174,6 +174,8 @@ key_key.debug.fpsCharts:key.keyboard.2
 key_key.debug.networkCharts:key.keyboard.3
 key_key.debug.lightmapTexture:key.keyboard.4
 key_key.debug.improvedTransparency:key.keyboard.x
+key_Show Cape Selection Screen:key.keyboard.n
+key_Show Custom Cape Selection Screen:key.keyboard.unknown
 key_key.bridgingmod.toggle_bridging:key.keyboard.comma
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.entityculling.toggleBoxes:key.keyboard.unknown

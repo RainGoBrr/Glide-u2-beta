@@ -34,9 +34,9 @@ showTransfer = true
 # Whether to show auto-stack buttons in the UI.
 showStack = true
 # How items are ordered when sorting. 'alphabetical' sorts by item name; 'creative' uses creative-menu order.
-sortMode = "creative"
+sortMode = "alphabetical"
 # Place items that hold contents (shulker boxes, bundles, etc.) before other items. Only applies in 'alphabetical' sort mode.
-containersFirst = true
+containersFirst = false
 # Customize a default for button position.
 defaultPosition = [-4, -1]
 # Customize button position on a per-screen basis.

@@ -64,5 +64,6 @@
   "minecraft:villager_profession": null,
   "minecraft:villager_restock": null,
   "minecraft:waxed": null,
-  "minecraft:zombie_villager": null
+  "minecraft:zombie_villager": null,
+  "underlay:overlay": null
 }
