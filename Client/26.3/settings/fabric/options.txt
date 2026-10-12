@@ -17,23 +17,23 @@ preferredGraphicsBackend:"default"
 graphicsPreset:"custom"
 prioritizeChunkUpdates:1
 fullscreen:true
-exclusiveFullscreen:true
+exclusiveFullscreen:false
 macFullscreenMenuVisibility:false
 gamma:1.0
-guiScale:2
+guiScale:3
 debugGuiScale:0
 maxAnisotropyBit:1
 textureFiltering:1
 maxFps:260
 improvedTransparency:false
-inactivityFpsLimit:"minimized"
+inactivityFpsLimit:"afk"
 mipmapLevels:0
 narrator:0
 particles:2
 reducedDebugInfo:false
 renderClouds:"false"
 cloudRange:64
-renderDistance:8
+renderDistance:6
 simulationDistance:5
 screenEffectScale:1.0
 soundDevice:""
@@ -41,7 +41,7 @@ vignette:true
 weatherRadius:10
 autoJump:false
 rotateWithMinecart:false
-operatorItemsTab:false
+operatorItemsTab:true
 autoSuggestions:true
 chatColors:true
 chatLinks:true
@@ -61,13 +61,13 @@ sprintWindow:7
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 hideSplashTexts:false
-mouseSensitivity:0.9507042253521126
+mouseSensitivity:0.954225352112676
 damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","continuity:glass_pane_culling_fix","continuity:default","file/_e-covered.zip","file/_entler _eather _ounds _._._.zip","file/_hase the _kies.zip","file/_lear _ater! (_._v).zip","file/visual_armor_trims__._.zip","file/§_§l_anilla __perience+§_.zip","file/§d§l_§_n§di§_§lm§da§_t§d§le§_d §__§_a§ei§an§bb§_o§dw §_§l_§a§l_ §r_ar.zip","file/_rmor _rim _review.zip","file/_ew_lowing_res-§___order]§r.zip","file/_ark _mooth ___ __._._ blue-______-______-______-______.zip"]
-incompatibleResourcePacks:["file/_lear _ater! (_._v).zip","file/_rmor _rim _review.zip","file/_ew_lowing_res-§___order]§r.zip"]
+resourcePacks:["vanilla","file/_ark _mooth ___ __._._ blue-______-______-______-______.zip","file/_e-covered.zip","file/_entler _eather _ounds _._._.zip","continuity:glass_pane_culling_fix","continuity:default","file/_ew_lowing_res-§___order]§r.zip","file/_lear _ater! (_._v).zip","file/_rmor _rim _review.zip","file/christmas-chests-all-year-_._._-mc__._.zip","file/privates-skies-_._._.zip","file/visual_armor_trims__._.zip","file/§_§l_anilla __perience+§_.zip","file/§d§l_§_n§di§_§lm§da§_t§d§le§_d §__§_a§ei§an§bb§_o§dw §_§l_§a§l_ §r_ar.zip","inventorymanagement:inventorymanagement-dark-ui"]
+incompatibleResourcePacks:["file/_ew_lowing_res-§___order]§r.zip","file/_lear _ater! (_._v).zip","file/_rmor _rim _review.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -108,7 +108,7 @@ saveChatDrafts:false
 panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false
-menuBackgroundBlurriness:0
+menuBackgroundBlurriness:5
 startedCleanly:true
 musicToast:"never"
 musicFrequency:"DEFAULT"
@@ -132,7 +132,7 @@ key_key.socialInteractions:key.keyboard.p
 key_key.toggleGui:key.keyboard.f1
 key_key.toggleSpectatorShaderEffects:key.keyboard.f4
 key_key.screenshot:key.keyboard.f2
-key_key.togglePerspective:key.keyboard.f5
+key_key.togglePerspective:key.keyboard.left.alt
 key_key.smoothCamera:key.keyboard.unknown
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
@@ -142,7 +142,7 @@ key_key.saveToolbarActivator:key.keyboard.c
 key_key.loadToolbarActivator:key.keyboard.x
 key_key.advancements:key.keyboard.l
 key_key.quickActions:key.keyboard.g
-key_key.debug.overlay:key.keyboard.f3
+key_key.debug.overlay:key.keyboard.up
 key_key.debug.modifier:key.keyboard.f3
 key_key.hotbar.1:key.keyboard.1
 key_key.hotbar.2:key.keyboard.2
@@ -238,7 +238,7 @@ key_key.trashslot.delete:key.keyboard.delete
 key_key.trashslot.delete_all:key.keyboard.delete
 key_key.travelersbackpack.inventory:key.keyboard.b
 key_key.travelersbackpack.sort:key.keyboard.unknown
-key_key.travelersbackpack.ability:key.keyboard.unknown
+key_key.travelersbackpack.ability:key.keyboard.down
 key_key.travelersbackpack.cycle_tool:key.keyboard.z
 key_key.travelersbackpack.toggle_upgrade_0:key.keyboard.unknown
 key_key.travelersbackpack.toggle_upgrade_1:key.keyboard.unknown

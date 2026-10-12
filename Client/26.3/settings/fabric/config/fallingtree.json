@@ -5,7 +5,7 @@
     "allowedLeaves": [],
     "allowedNonDecayLeaves": [],
     "deniedLeaves": [],
-    "breakMode": "INSTANTANEOUS",
+    "breakMode": "SHIFT_DOWN",
     "detectionMode": "WHOLE_TREE",
     "detectionModeBiomeOverride": {},
     "maxScanSize": 500,
@@ -44,8 +44,8 @@
   "enchantment": {
     "requireEnchantment": false
   },
-  "sneakMode": "SNEAK_DISABLE",
-  "breakInCreative": false,
+  "sneakMode": "SNEAK_ENABLE",
+  "breakInCreative": true,
   "lootInCreative": true,
   "notificationMode": "ACTION_BAR"
 }

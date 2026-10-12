@@ -34,11 +34,11 @@ showTransfer = true
 # Whether to show auto-stack buttons in the UI.
 showStack = true
 # How items are ordered when sorting. 'alphabetical' sorts by item name; 'creative' uses creative-menu order.
-sortMode = "alphabetical"
+sortMode = "creative"
 # Place items that hold contents (shulker boxes, bundles, etc.) before other items. Only applies in 'alphabetical' sort mode.
 containersFirst = false
 # Customize a default for button position.
-defaultPosition = [-4, -1]
+defaultPosition = [0, 0]
 # Customize button position on a per-screen basis.
 screenPositions = "{}"
 # Master toggle for locking player-inventory slots (Ctrl+click). When false, locking is disabled, no markers/tooltips are drawn, and locked slots are no longer skipped by sort/auto-stack/transfer. Stored locks are kept for when it is re-enabled.

@@ -7,10 +7,10 @@ modEnabled = true
 trackExperience = true
 # Where to position the notifications. Can be one of
 # 'top_left', 'top_right', 'bottom_left', or 'bottom_right'.
-guiAlignment = "top_left"
+guiAlignment = "bottom_left"
 # The amount to offset the notifications from the edge
 # of the screen.
-guiOffset = [4, 4]
+guiOffset = [1, -1]
 # Scale to render notifications at.
 guiScale = 1.0
 # How many notifications can be on the screen at a time.
