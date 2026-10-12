@@ -14,32 +14,6 @@
       "minecraft:acacia_log": 12,
       "minecraft:stone": 19
     },
-    "minecraft:custom": {
-      "minecraft:interact_with_crafting_table": 4,
-      "minecraft:time_since_rest": 3311,
-      "minecraft:walk_one_cm": 88767,
-      "minecraft:leave_game": 1,
-      "minecraft:walk_under_water_one_cm": 934,
-      "minecraft:mob_kills": 10,
-      "minecraft:damage_taken": 830,
-      "minecraft:boat_one_cm": 16803,
-      "minecraft:play_time": 28564,
-      "minecraft:damage_dealt": 1036,
-      "minecraft:jump": 223,
-      "minecraft:time_since_death": 3275,
-      "minecraft:sprint_one_cm": 20720,
-      "minecraft:open_chest": 1,
-      "minecraft:fall_one_cm": 8250,
-      "minecraft:total_world_time": 44928,
-      "minecraft:fly_one_cm": 14138,
-      "minecraft:walk_on_water_one_cm": 485,
-      "minecraft:crouch_one_cm": 212,
-      "minecraft:sneak_time": 125,
-      "minecraft:deaths": 3
-    },
-    "minecraft:killed_by": {
-      "minecraft:zombie": 2
-    },
     "minecraft:crafted": {
       "minecraft:torch": 20,
       "minecraft:furnace": 1,
@@ -53,11 +27,31 @@
       "minecraft:crafting_table": 1,
       "minecraft:acacia_planks": 30
     },
-    "minecraft:killed": {
-      "minecraft:zombie": 1,
-      "minecraft:sheep": 4,
-      "minecraft:cow": 4,
-      "minecraft:spider": 1
+    "minecraft:killed_by": {
+      "minecraft:zombie": 2
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 4,
+      "minecraft:time_since_rest": 7184,
+      "minecraft:walk_one_cm": 89939,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 934,
+      "minecraft:mob_kills": 10,
+      "minecraft:damage_taken": 830,
+      "minecraft:boat_one_cm": 16803,
+      "minecraft:play_time": 32437,
+      "minecraft:damage_dealt": 1036,
+      "minecraft:jump": 228,
+      "minecraft:time_since_death": 7148,
+      "minecraft:sprint_one_cm": 20839,
+      "minecraft:open_chest": 1,
+      "minecraft:fall_one_cm": 8250,
+      "minecraft:total_world_time": 49455,
+      "minecraft:fly_one_cm": 14354,
+      "minecraft:walk_on_water_one_cm": 485,
+      "minecraft:crouch_one_cm": 212,
+      "minecraft:sneak_time": 135,
+      "minecraft:deaths": 3
     },
     "minecraft:used": {
       "minecraft:stone_axe": 21,
@@ -93,6 +87,12 @@
       "minecraft:wheat_seeds": 2,
       "minecraft:mutton": 6,
       "minecraft:spider_eye": 1
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 1,
+      "minecraft:sheep": 4,
+      "minecraft:cow": 4,
+      "minecraft:spider": 1
     }
   },
   "DataVersion": 5023
