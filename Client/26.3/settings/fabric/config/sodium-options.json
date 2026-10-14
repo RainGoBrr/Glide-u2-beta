@@ -13,7 +13,7 @@
     "use_fog_occlusion": true,
     "use_block_face_culling": true,
     "use_no_error_g_l_context": true,
-    "quad_splitting_mode": "SAFE"
+    "quad_splitting_mode": "UNLIMITED"
   },
   "advanced": {
     "enable_memory_tracing": false
