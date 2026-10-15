@@ -1,11 +1,11 @@
 version:5023
 ao:true
-biomeBlendRadius:0
+biomeBlendRadius:2
 chunkSectionFadeInTime:0.75
 cutoutLeaves:false
 enableVsync:true
 entityDistanceScaling:1.0
-entityShadows:false
+entityShadows:true
 forceUnicodeFont:false
 japaneseGlyphVariants:false
 fov:0.5
@@ -13,14 +13,14 @@ fovEffectScale:1.0
 darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
-preferredGraphicsBackend:"default"
+preferredGraphicsBackend:"vulkan"
 graphicsPreset:"custom"
 prioritizeChunkUpdates:1
 fullscreen:true
 exclusiveFullscreen:true
 macFullscreenMenuVisibility:false
 gamma:1.0
-guiScale:2
+guiScale:3
 debugGuiScale:0
 maxAnisotropyBit:1
 textureFiltering:1
@@ -61,12 +61,12 @@ sprintWindow:7
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 hideSplashTexts:false
-mouseSensitivity:0.5
+mouseSensitivity:0.954225352112676
 damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix","file/_ark _mooth ___ __._._ blue-______-______-______-______.zip","file/_e-covered.zip","file/_entler _eather _ounds _._._.zip","file/_ew_lowing_res-§___order]§r.zip","file/_lear _ater! (_._v).zip","file/_rmor _rim _review.zip","file/christmas-chests-all-year-_._._-mc__._.zip","file/privates-skies-_._._.zip","file/visual_armor_trims__._.zip","file/§_§l_anilla __perience+§_.zip","file/§d§l_§_n§di§_§lm§da§_t§d§le§_d §__§_a§ei§an§bb§_o§dw §_§l_§a§l_ §r_ar.zip"]
+resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix","file/_ark _mooth ___ __._._ blue-______-______-______-______.zip","file/_e-covered.zip","file/_efault-_ark-_ode-__._-____._._.zip","file/_entler _eather _ounds _._._.zip","file/_ew_lowing_res-§___order]§r.zip","file/_lear _ater! (_._v).zip","file/_rmor _rim _review.zip","file/christmas-chests-all-year-_._._-mc__._.zip","file/privates-skies-_._._.zip","file/visual_armor_trims__._.zip","file/§_§l_anilla __perience+§_.zip","file/§d§l_§_n§di§_§lm§da§_t§d§le§_d §__§_a§ei§an§bb§_o§dw §_§l_§a§l_ §r_ar.zip","inventorymanagement:inventorymanagement-dark-ui"]
 incompatibleResourcePacks:["file/_ew_lowing_res-§___order]§r.zip","file/_lear _ater! (_._v).zip","file/_rmor _rim _review.zip"]
 lastServer:
 lang:en_us
@@ -127,8 +127,8 @@ key_key.chat:key.keyboard.t
 key_key.playerlist:key.keyboard.tab
 key_key.pickItem:key.keyboard.p
 key_key.command:key.keyboard.slash
-key_key.friends:key.keyboard.down
-key_key.socialInteractions:key.keyboard.up
+key_key.friends:key.keyboard.right
+key_key.socialInteractions:key.keyboard.down
 key_key.toggleGui:key.keyboard.f1
 key_key.toggleSpectatorShaderEffects:key.keyboard.f4
 key_key.screenshot:key.keyboard.f2
@@ -230,7 +230,7 @@ key_key.jei.previousCategory:key.keyboard.unknown
 key_key.jei.nextCategory:key.keyboard.unknown
 key_key.jei.closeRecipeGui:key.keyboard.escape
 key_key.jei.copy.recipe.id:key.keyboard.unknown
-key_key.modmenu.open_menu:key.keyboard.right
+key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.trade_cycling.cycle_trades:key.keyboard.c
 key_key.trashslot.toggle:key.keyboard.t
 key_key.trashslot.toggle_lock:key.keyboard.unknown

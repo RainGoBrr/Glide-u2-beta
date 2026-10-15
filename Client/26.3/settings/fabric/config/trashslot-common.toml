@@ -12,5 +12,5 @@ enableDeleteKeysInCreative = true
 enableHints = true
 
 # This causes the deletion slot to delete items instantly, similar to Creative Mode.
-instantDeletion = true
+instantDeletion = false
 

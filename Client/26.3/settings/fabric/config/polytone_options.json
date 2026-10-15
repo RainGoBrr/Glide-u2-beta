@@ -1,0 +1,11 @@
+{
+  "polytone:lenient_loading": false,
+  "polytone:legacy_parsing": true,
+  "polytone:particles_throttle": 1.0,
+  "polytone:auto_particle_rate_limit": false,
+  "polytone:custom_particles_async": false,
+  "polytone:show_config_button": true,
+  "polytone:post_chains_after_hand": true,
+  "polytone:sky_depth_write": false,
+  "polytone:attribute_time_smoothing": 0.4
+}

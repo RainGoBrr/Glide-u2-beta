@@ -10,7 +10,7 @@ trackExperience = true
 guiAlignment = "bottom_left"
 # The amount to offset the notifications from the edge
 # of the screen.
-guiOffset = [1, 1]
+guiOffset = [4, 4]
 # Scale to render notifications at.
 guiScale = 1.0
 # How many notifications can be on the screen at a time.

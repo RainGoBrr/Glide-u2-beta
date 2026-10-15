@@ -2177,6 +2177,42 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2026-10-14 16:33:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_dyed": {
+    "criteria": {
+      "has_standard": "2026-10-14 16:33:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard": {
+    "criteria": {
+      "standard": "2026-10-14 16:33:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2026-10-14 16:40:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2026-10-14 16:40:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2026-10-14 16:40:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2026-10-14 16:45:16 +0000"
@@ -2201,24 +2237,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2026-10-14 16:40:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2026-10-14 16:40:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2026-10-14 16:40:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/suspicious_stew_from_allium": {
     "criteria": {
       "has_allium": "2026-10-14 16:45:16 +0000"
@@ -2231,21 +2249,45 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/standard_dyed": {
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "has_standard": "2026-10-14 16:33:56 +0000"
+      "has_golden_hoe": "2026-10-15 13:46:25 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/standard_smithing": {
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
-      "has_standard": "2026-10-14 16:33:55 +0000"
+      "has_golden_hoe": "2026-10-15 13:46:25 +0000"
     },
     "done": true
   },
-  "travelersbackpack:standard": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "standard": "2026-10-14 16:33:56 +0000"
+      "has_water_bucket": "2026-10-15 13:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget_from_blasting": {
+    "criteria": {
+      "has_copper_hoe": "2026-10-15 13:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget_from_smelting": {
+    "criteria": {
+      "has_copper_hoe": "2026-10-15 13:51:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "onion": "2026-10-15 14:01:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2026-10-15 15:53:13 +0000"
     },
     "done": true
   },
