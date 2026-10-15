@@ -22,9 +22,9 @@ durabilityAlertAtOne = true
 # Play the anvil ping sound with the low-durability alert (the action-bar message always shows).
 durabilityAlertSound = true
 # Right before a held/worn item breaks, swap in a matching replacement from your inventory. Requires the mod on the server in multiplayer.
-durabilityAutoReplace = false
+durabilityAutoReplace = true
 # Relax auto-replace matching from strict (same item + enchantments) to similar (same category, ignoring material/enchantments).
-durabilityAutoReplaceSimilar = false
+durabilityAutoReplaceSimilar = true
 
 [sorting]
 # Whether to show sort buttons in the UI.

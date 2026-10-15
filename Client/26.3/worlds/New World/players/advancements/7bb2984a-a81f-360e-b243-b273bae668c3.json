@@ -1939,7 +1939,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2026-10-14 15:02:07 +0000"
+      "minecraft:skeleton": "2026-10-15 23:48:19 +0000",
+      "minecraft:spider": "2026-10-15 23:47:56 +0000",
+      "minecraft:zombie": "2026-10-14 15:02:07 +0000",
+      "minecraft:creeper": "2026-10-15 23:19:46 +0000"
     },
     "done": false
   },
@@ -2288,6 +2291,54 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2026-10-15 15:53:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2026-10-15 23:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2026-10-15 23:48:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2026-10-15 23:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2026-10-15 23:19:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2026-10-15 23:48:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2026-10-15 23:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2026-10-15 23:19:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2026-10-15 23:19:48 +0000"
     },
     "done": true
   },
